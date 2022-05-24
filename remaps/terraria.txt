@@ -1,0 +1,4 @@
+{
+('~lshift', 'F1'): ("rapid left",),
+('~lshift', 'F2'): ("rapid right",)
+}

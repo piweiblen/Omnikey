@@ -1,0 +1,5 @@
+{
+'default': True,
+'pre': ('release', 'lshift'),
+'post': ('press', 'lshift')
+}

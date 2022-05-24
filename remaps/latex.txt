@@ -1,0 +1,8 @@
+{
+('~lshift', 'F5'): ('tex 5'),
+('~lshift', 'F6'): ('modify keys', 'Lcontrol', 'm'),
+('~lshift', 'F7'): ('modify keys', 'Lcontrol', ('a', 'c', 'enter', 'down', 'v')),
+('~lshift', 'F8'): ('tex 8',),
+('release', '~lshift', 'F8'): ('tex 8 up',),
+('~lshift', 'F10'): ('modify keys', 'Lcontrol', ('m', 'v'))
+}

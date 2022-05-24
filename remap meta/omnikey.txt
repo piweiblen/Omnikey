@@ -1,0 +1,4 @@
+{
+'default': True,
+'toggle': ('lcontrol', 'lmenu', 'f1')
+}

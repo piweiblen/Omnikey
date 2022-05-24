@@ -1,0 +1,11 @@
+{
+'Oem_3': 'lwin',
+# 'Multiply': 'rwin',
+'clear': 'down',
+'omni': 'down',
+'Home': 'left',
+'End': 'left',
+'Prior': 'right',
+'Next': 'right',
+('~lshift', 'F12'): '`'
+}

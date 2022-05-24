@@ -1,0 +1,16 @@
+{
+('lshift', 'F1'): ('hit key', 'volume_mute'),
+('lshift', 'F2'): ('hit key', 'volume_down'),
+('lshift', 'F3'): ('hit key', 'volume_up'),
+('lshift', 'F4'): None,
+
+('lshift', 'F5'): ('hit key', 'media_prev', 0.02),
+('lshift', 'F6'): ('hit key', 'media_pause', 0.02),
+('lshift', 'F7'): ('hit key', 'media_next', 0.02),
+('lshift', 'F8'): None,
+
+('lshift', 'F9'): ('paste insert', "\u00B7"),  # interpunct
+('lshift', 'F10'): ('paste insert', "\u2014"),  # em dash
+('lshift', 'F11'): ('paste insert', "\u200B"),  # zero width space
+('lshift', 'F12'): ('hit key', 'delete', 0.02)
+}

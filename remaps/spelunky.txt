@@ -1,0 +1,14 @@
+{
+'Numpad1': ('extended', 'left'),
+'Numpad2': ('extended', 'down'),
+'Numpad3': ('extended', 'right'),
+'Numpad4': ('extended', 'left'),
+'Numpad5': ('extended', 'down'),
+'Numpad6': ('extended', 'right'),
+'Numpad7': ('extended', 'left'),
+'Numpad8': ('extended', 'up'),
+'Numpad9': ('extended', 'right'),
+('~lshift', 'F11'): ('hit keys', ('escape', 'down', 'down', 'space')),
+('~lshift', 'F1'): ('rapid hit', 'd'),
+('~lshift', 'F2'): ('rapid hit', 'e')
+}
